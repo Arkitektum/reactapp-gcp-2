@@ -4,7 +4,7 @@ on:
     branches: [ "main" ]
 
 env:
-  PROJECT_ID: react-20230425 # TODO: update Google Cloud project id
+  PROJECT_ID: react-20230502 # TODO: update Google Cloud project id
   GAR_LOCATION: europe-north1 # TODO: update Artifact Registry location
   SERVICE: cloud-run-source-deploy # TODO: update Cloud Run service name
   REGION: europe-north1 # TODO: update Cloud Run service region
